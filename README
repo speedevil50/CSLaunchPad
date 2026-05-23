@@ -1,0 +1,49 @@
+# ![LaunchPad ASCII Art](ascii-art-text-LaunchPad.png)
+By ChitterSync
+
+The Simplest Solution to a Universal Game Hub
+
+ChitterSync: LaunchPad offers the Ability to put all your favorite games on one launcher so no having to run a different launcher each time you want to play a game
+
+# Features
+
+- Unified Game Library: Access all your games from a single launcher.
+- Cross-Platform Support: Play games from various platforms without switching launchers.
+- Customizable Interface: Personalize your gaming experience with themes and layouts.
+- Automatic Updates: Keep your games up-to-date effortlessly.
+- Social Integration: Connect with friends and join multiplayer sessions easily. allowing contacting friends on discord, ChitterHaven, and the game platforms
+- Cloud Saves (Coming Soon): Access your game progress from any device.
+
+# How to Install
+
+go to [launchpad.chittersync.com/download](launchpad.chittersync.com/download#latest)
+
+the page should automatically detect your operating system and provide the appropriate download link.
+
+run the file and follow the on-screen instructions to complete the installation.
+
+# Connecting Game Platforms
+you will need to have each game platform installed on your computer to connect them to LaunchPad, including Steam, Epic Games Store, and others. 
+
+Once you have the platforms installed, you can link your accounts within the LaunchPad interface. 
+
+LaunchPad will provide download links for each platform if you do not have them installed, to access go to `settings > platforms > connected platforms` and it should list all the supported platforms.
+
+# Troubleshooting
+If you encounter any issues during installation or while connecting game platforms, please refer to the support page and contact support for assistance.
+
+# Frequently Asked Questions (FAQ)
+1. **What platforms does LaunchPad support?**
+   LaunchPad supports a variety of game platforms, including Steam, Epic Games Store, and more. Check the settings page for a full list of supported platforms.
+
+2. **Can I use LaunchPad on multiple devices?**
+   Yes, you can use LaunchPad on multiple devices. Just log in with your account to access your game library and settings.
+
+3. **What should I do if a game is not showing up in LaunchPad?**
+   If a game is not showing up, make sure the corresponding game platform is installed and your account is linked. You can also try refreshing the library.
+
+4. **Is there a mobile version of LaunchPad?**
+   Currently, LaunchPad is only available for desktop platforms. A mobile version for Android and iOS may be considered in the future.
+
+5. **How can I provide feedback or report a bug?**
+   You can provide feedback or report bugs through the support page. We appreciate your input to help improve LaunchPad.

@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  background: #0d0d0d; /* Dark console vibe */
+  color: #fff;
+}
+
+.app {
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #00ffea; /* Neon highlight */
+  text-shadow: 0 0 10px #00ffea, 0 0 20px #00ffea;
+}
+
+.game-library {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.game-card {
+  background: #111;
+  border: 2px solid #00ffea;
+  border-radius: 1rem;
+  padding: 1rem;
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+}
+
+.game-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px #00ffea, 0 0 40px #00ffea;
+}
+
+.game-card img,
+.placeholder-icon {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  background: #222;
+}
+
+.game-card h3 {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+.game-card p {
+  font-size: 0.9rem;
+  color: #aaa;
+}
